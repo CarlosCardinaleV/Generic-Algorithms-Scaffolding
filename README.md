@@ -1,5 +1,5 @@
 # Genetic Algorithms Image Generation
-
+[![License Logo](license-logo.png)](./LICENSE)
 This project is a genetic algorithm-based image generation system that creates random images and estimates their similarity by comparing pixel-by-pixel color values. The lower the similarity score, the more similar the images are.
 
 ## Table of Contents
